@@ -1358,6 +1358,12 @@
 			margin: 0em 0em 0em 20em;
 			float: center;
 		}
+		
+		.image.people {
+			display: block;
+			width: 80%;
+			margin: 0em 2em 0em -3em;
+		}		
 
 /* Button */
 
