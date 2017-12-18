@@ -1363,8 +1363,13 @@
 			display: block;
 			width: 80%;
 			margin: 0em 2em 0em -3em;
-		}		
-
+		}
+		
+		.image.people2 {
+			display: block;
+			width: 75%;
+			margin: 3em 0em 0em 1.5em;	
+		}
 /* Button */
 
 	input[type="button"],
