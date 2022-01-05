@@ -1674,7 +1674,10 @@
 		background: url("../../images/trimodal.jpg") center center;
 		background-size: cover;
 	}
-
+	#header6-wrapper {
+		background: url("../../images/quicklook.jpg") center center;
+		background-size: cover;
+	}
 
 		#header-wrapper:before {
 			content: '';
