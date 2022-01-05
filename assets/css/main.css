@@ -1837,15 +1837,14 @@
 
 	#highlights .highlight h3 {
 		text-align: center;
-	}
-	
-	#highlights .highlight p {
-		text-align: justify;
+		color: #484d55;
 	}
 
-		#highlights .highlight h3 {
-			color: #4077b2;
-		}
+	#highlights .highlight p {
+		text-align: justify;
+		color: #484d55;
+	}
+
 
 /* Copyright */
 
