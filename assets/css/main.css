@@ -1635,6 +1635,9 @@
 				background: #fff;
 				color: #484d55;
 			}
+			.wrapper.style2 h3 {
+				color: #4077b2;
+			}
 
 		.wrapper.style3 {
 			background: #f3f3f3 url("images/overlay.png");
