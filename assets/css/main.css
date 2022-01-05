@@ -1289,9 +1289,14 @@
 		header.style1 h2 {
 			font-weight: 700;
 		}
+		header.style1 h3 {
+			font-weight: 700;
+			color: #484d55;
+		}
 
 		header.style1 p {
 			color: #b1b4b9;
+			font-weight: 700;
 		}
 
 /* Image */
@@ -1636,7 +1641,7 @@
 				color: #484d55;
 			}
 			.wrapper.style2 h3 {
-				color: #4077b2;
+				color: #484d55;
 			}
 
 		.wrapper.style3 {
@@ -2113,7 +2118,11 @@
 
 			#header5-wrapper {
 				padding: 0;
-			}			
+			}
+		
+			#header6-wrapper {
+				padding: 0;
+			}
 
 			#intro-wrapper {
 				padding-bottom: 8em;
