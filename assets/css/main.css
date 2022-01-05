@@ -1292,11 +1292,12 @@
 		header.style1 h3 {
 			font-weight: 700;
 			color: #484d55;
+			text-align: justify;
 		}
 
 		header.style1 p {
 			color: #b1b4b9;
-			font-weight: 700;
+			font-weight: 400;
 		}
 
 /* Image */
